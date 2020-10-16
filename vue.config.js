@@ -2,8 +2,10 @@ module.exports = {
     pages: {
         index:{
             entry: 'src/main.js',
-            template: 'index.html',
+            template: 'src/public/index.html',
+            title:'Michael Young - Personal Website',
             filename: 'index.html',
         },
-    }
+    },
+    publicPath: '/'
 }
