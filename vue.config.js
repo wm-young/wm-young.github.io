@@ -7,5 +7,5 @@ module.exports = {
             filename: 'index.html',
         },
     },
-    publicPath: '/'
+    outputDir: 'docs'
 }

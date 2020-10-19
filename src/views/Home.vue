@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h2>Portfolio</h2>
-    <p>A work in progress of my personal website. (Last Updated: Oct 15, 2020)</p>
+    <p>A work in progress of my personal website. (Last Updated: Oct 16, 2020)</p>
     <div id="links">
       <div style="padding:20px"><a href="https://github.com/PutridFarm"><img src='../assets/GitHub-Mark-120px-plus.png'/></a></div>
       <div style="padding:20px"><a href="https://www.linkedin.com/in/michael-young-01a83886/"><img src='../assets/LI-Logo.png' width="160"/></a></div>
