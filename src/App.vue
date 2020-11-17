@@ -63,6 +63,7 @@ html {
   font-size: 72px;
   font-weight: lighter;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #E1E1E1;
 }
 
 a:visited {
@@ -70,8 +71,46 @@ a:visited {
   color: #E1E1E1;
 }
 
+a.sub-nav {
+  color: #42b983;
+}
+
+a.sub-nav:visited {
+  color: #42b983;
+}
+
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+h1 {
+  color: #E1E1E1;
+  font-size: 36px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+    text-indent: 2em;
+}
+
+p.no-indent {
+    text-indent: 0em;
+}
+.image-txt-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+hr {
+    border: 1px solid black;
+    border-radius: 2px;
 }
 
 </style>

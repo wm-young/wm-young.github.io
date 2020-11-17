@@ -5,7 +5,7 @@
     <div id="links">
       <div style="padding:20px"><a href="https://github.com/wm-young"><img src='../assets/GitHub-Mark-120px-plus.png'/></a></div>
       <div style="padding:20px"><a href="https://www.linkedin.com/in/michael-young-01a83886/"><img src='../assets/LI-Logo.png' width="160"/></a></div>
-      <div style="padding:20px"><a href="https://www.linkedin.com/in/michael-young-01a83886/"><img src='../assets/code-mentor-logo.png' width="160"/></a></div>
+      <div style="padding:20px"><a href="https://www.codementor.io/@michaelyoung958"><img src='../assets/code-mentor-logo.png' width="160"/></a></div>
     </div>
     <h2>Interesting Links</h2>
     <p>A few websites and articles that I find interesting and would like to share.</p>
